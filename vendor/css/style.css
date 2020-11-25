@@ -567,3 +567,16 @@ a.postedit{
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
 }
+.noidunglienhe p{
+    padding: 10px;
+}
+.nguoilienhe {
+    display: block;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+}
+.nguoilienhe:hover {
+    background-color: #e4e6e9;
+    
+}
